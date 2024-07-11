@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/icon"/>
+    <qresource prefix="/">
+        <file>image/FAN_OFF.png</file>
+        <file>image/FAN_ON.png</file>
+        <file>image/LED_OFF.png</file>
+        <file>image/LED_ON.png</file>
+        <file>image/POWER_OFF.png</file>
+        <file>image/POWER_ON.png</file>
+        <file>image/ring_ON.png</file>
+        <file>image/ring_OFF.png</file>
+    </qresource>
+</RCC>
